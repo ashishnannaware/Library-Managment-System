@@ -2,15 +2,15 @@
 
 
 ## Setup
-Git clone 
+
+Git clone the repository
 
 Inside library_db folder contain bson file import all that to in your local mongoDB
-commondLine: mongorestore --db <library_db> <gave path of library_db folder>
-
+Command: mongorestore --db library_db <path to library_db folder>
 
 Install deps: npm install
 
-create .env file :
+Create .env file:
   MONGODB_URI=mongodb://localhost:27017/library_db
   PORT=3000
   Optional email: SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, SMTP_FROM, SMTP_SECURE
@@ -26,30 +26,48 @@ Text search by title/author
 Soft delete (audit trail) for books
 Async wishlist notifications when a book returns to Available (non-blocking response)
 
-# Endpoints
+## Endpoints
+
 GET  /server-status — service status
 
-Books
+Books:
 POST /api/books — create book
+
 GET  /api/books — list books (pagination, author, publishedYear filters)
+
 GET  /api/books/search — partial match on title/author
+
 GET  /api/books/:id — get book by id
+
 PUT  /api/books/:id — update book (includes availabilityStatus)
+
 DELETE /api/books/:id — soft delete book
 
-Users Api:
+Users:
+
 POST /api/users — create user
+
 GET  /api/users — list users (pagination, userName, email filters)
+
 GET  /api/users/userId/:userId — get user by userId
+
 GET  /api/users/:id — get user by id
+
 PUT  /api/users/:id — update user
+
 DELETE /api/users/:id — soft delete user
 
 Wishlist:
-GET / — get all wishlist
+
+GET  /api/wishlist — get all wishlist (pagination, userId, bookId filters)
+
 POST /api/wishlist — add book to wishlist (requires userId, bookId)
-GET  /api/wishlist/check — check if book is in wishlist (query params: userId, bookId)
+
+GET  /api/wishlist/check — check if book is in wishlist (query params: userId, 
+bookId)
+
 GET  /api/wishlist/user/:userId — get user's wishlist with book details
+
 DELETE /api/wishlist/user/:userId/book/:bookId — remove book from wishlist
 
 ## Soft Delete

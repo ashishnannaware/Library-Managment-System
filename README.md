@@ -5,14 +5,18 @@
 Git clone 
 
 Inside library_db folder contain bson file import all that to in your local mongoDB
+commondLine: mongorestore --db <library_db> <gave path of library_db folder>
 
 
 Install deps: npm install
-Env vars (examples):
+
+create .env file :
   MONGODB_URI=mongodb://localhost:27017/library_db
   PORT=3000
   Optional email: SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, SMTP_FROM, SMTP_SECURE
+
 Run dev: npm run dev
+
 Run prod: npm start
 
 ## Core Behavior

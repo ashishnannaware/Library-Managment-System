@@ -1,0 +1,214 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "978-0-7432-7356-5",
+    "publishedYear": 1925,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "978-0-06-112008-4",
+    "publishedYear": 1960,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "978-0-452-28423-4",
+    "publishedYear": 1949,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "978-0-14-143951-8",
+    "publishedYear": 1813,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "978-0-316-76948-0",
+    "publishedYear": 1951,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "isbn": "978-0-571-05686-5",
+    "publishedYear": 1954,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978-0-544-17697-6",
+    "publishedYear": 1937,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "isbn": "978-0-452-28424-1",
+    "publishedYear": 1945,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "978-0-06-085052-4",
+    "publishedYear": 1932,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "isbn": "978-0-544-17698-3",
+    "publishedYear": 1954,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "isbn": "978-0-14-144114-6",
+    "publishedYear": 1847,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "isbn": "978-0-14-143955-6",
+    "publishedYear": 1847,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "isbn": "978-0-14-243724-7",
+    "publishedYear": 1851,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "isbn": "978-0-14-243717-9",
+    "publishedYear": 1884,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "isbn": "978-0-14-144246-4",
+    "publishedYear": 1890,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "isbn": "978-0-14-143947-1",
+    "publishedYear": 1818,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "isbn": "978-0-14-143984-6",
+    "publishedYear": 1897,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "isbn": "978-0-14-243726-1",
+    "publishedYear": 1850,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "isbn": "978-0-14-044913-6",
+    "publishedYear": 1866,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "isbn": "978-0-14-044793-4",
+    "publishedYear": 1869,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "isbn": "978-0-14-044924-2",
+    "publishedYear": 1880,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "isbn": "978-0-06-088328-7",
+    "publishedYear": 1967,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "isbn": "978-1-59448-000-3",
+    "publishedYear": 2003,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "978-0-06-112241-5",
+    "publishedYear": 1988,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "978-0-7475-3269-6",
+    "publishedYear": 1997,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "isbn": "978-0-439-02348-1",
+    "publishedYear": 2008,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "isbn": "978-0-385-50420-5",
+    "publishedYear": 2003,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "isbn": "978-0-446-36538-3",
+    "publishedYear": 1936,
+    "availabilityStatus": "Borrowed"
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "isbn": "978-0-06-447119-0",
+    "publishedYear": 1950,
+    "availabilityStatus": "Available"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "isbn": "978-0-385-49081-0",
+    "publishedYear": 1985,
+    "availabilityStatus": "Available"
+  }
+]
+
+
